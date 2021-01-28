@@ -11,7 +11,7 @@ interesting &amp; promising &amp; widely adopted tricks for SOTA performance in 
 - Byol https://arxiv.org/abs/2006.07733
 
 
-## Image Generation
+## Image Generation:
 
 ### GAN
 - Zero or Negative momentum in the optimizer https://arxiv.org/abs/1807.04740 https://arxiv.org/abs/1909.13188
