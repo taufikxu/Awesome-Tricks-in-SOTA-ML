@@ -9,7 +9,10 @@ Any wonderful tricks are encouraged! Take your PR!
 
 - Mean Teacher https://arxiv.org/abs/1703.01780
 - Using EMA version of Batch Normalization in Teacher model (EMAN) https://arxiv.org/pdf/2101.08482.pdf
-- Byol https://arxiv.org/abs/2006.07733
+- Byol: Self-Supervised Learning without negative sampling https://arxiv.org/abs/2006.07733
+
+### Transformer in Image
+- Fix the patch projection with random initialization can improve the traning stability https://arxiv.org/pdf/2104.02057.pdf
 
 
 ## Image Generation:
